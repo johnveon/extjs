@@ -48,7 +48,7 @@ var b5 = Ext.create('Ext.Window', {
                 title: '人数',
                 minimum: 0
             }, {//纵轴
-                type: 'Category',//分类
+                type: 'Category',//分类	
                 position: 'left',
                 fields: ['name'],
                 title: '年龄分布'
